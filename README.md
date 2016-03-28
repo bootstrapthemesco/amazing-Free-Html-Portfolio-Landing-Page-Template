@@ -11,7 +11,7 @@
 
 
 ####Credits
-Psd Created by: Muslim Mahin
+Psd Created by: [Muslim Mahin](https://www.behance.net/gallery/35165349/Freebie-Amazing-Landing-Page-(PSD)) 
 
 Framework: Bootstrap
 
